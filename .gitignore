@@ -1,9 +1,7 @@
-config.h
 autostart.sh
 statusbar/
 
 result/
-dwm
 *.o
 .ccls-cache/
 compile_commands.json
